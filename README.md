@@ -1,0 +1,2 @@
+# ADM---HW2
+ADM HOMWWORK 2
