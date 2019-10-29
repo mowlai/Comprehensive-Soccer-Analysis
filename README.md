@@ -5,7 +5,7 @@
 The goal of this assignment is to perform an analysis on the largest open collection of soccer-logs ever released, collected by [Wyscout] (https://wyscout.com/) containing all the spatio-temporal events (passes, shots, fouls, etc.)
 
 The repository consists of the following file:
--> __`main.ipynb`__: 
+1. __`main.ipynb`__: 
 	> A Jupyter notebook which provides the solutions to all research questions.
   	
 		Exploratory Data Analysis
