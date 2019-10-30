@@ -29,7 +29,7 @@ The repository consists in the following file:
 
 
 2.__`functions.py`__:
-    > A python script which provides most of all the functions used in the main.ipynb notebook.
+    	> A python script which provides most of all the functions used in the main.ipynb notebook.
     
 
 
