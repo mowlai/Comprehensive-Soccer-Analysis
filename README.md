@@ -26,3 +26,11 @@ The repository consists in the following file:
 			1. [CRQ1]: What are the time slots of the match with more goals?
 			
 			2. [CRQ2]:  Visualize movements and passes on the pitch!
+
+
+2.functions.py:
+
+    A python script which provides most of all the functions used in the main.ipynb notebook.
+    
+
+
