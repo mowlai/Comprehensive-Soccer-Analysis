@@ -1,4 +1,4 @@
-# Algorithmic Methods for Data Mining - Homework 2 
+# Algorithmic Methods for Data Mining
 # *Soccer Analytics* 
 Made by Group 8, also known as: **Mohammadreza Mowlai**, *Flaminia Spasiano*, *Andrea Baldino*
 
