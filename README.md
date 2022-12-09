@@ -29,7 +29,7 @@ The repository consists in the following file:
 			2. [CRQ2]:  Visualize movements and passes on the pitch!
 
 2. __`functions.py`__:
-	> A python script which provides all the functions used in the `main.ipynb` notebook.
+	> A python script which provides all the functions used in the `main.py` file.
 3. __`theory.ipynb`__:
 	>  A Jupyter notebook that contains the answer to the theoretical exercise.
     
